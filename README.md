@@ -1,0 +1,1 @@
+# NextJS15-Vertical-Slice-Architecture
